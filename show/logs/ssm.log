@@ -1,0 +1,26 @@
+[INFO] [2016-08-05 15:28:47][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@26b056fd: startup date [Fri Aug 05 15:28:47 CST 2016]; root of context hierarchy
+ [INFO] [2016-08-05 15:28:47][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+ [INFO] [2016-08-05 15:28:48][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [appContext_quartz.xml]
+ [INFO] [2016-08-05 15:28:49][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2016-08-05 15:28:49][org.springframework.scheduling.quartz.SchedulerFactoryBean]Spring's Quartz 1.x support is deprecated - please upgrade to Quartz 2.0+
+ [INFO] [2016-08-05 15:29:40][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@31f0fe3: startup date [Fri Aug 05 15:29:40 CST 2016]; root of context hierarchy
+ [INFO] [2016-08-05 15:29:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+ [INFO] [2016-08-05 15:29:40][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [appContext_quartz.xml]
+ [INFO] [2016-08-05 15:29:40][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2016-08-05 15:29:40][org.springframework.scheduling.quartz.SchedulerFactoryBean]Spring's Quartz 1.x support is deprecated - please upgrade to Quartz 2.0+
+ [INFO] [2016-08-05 15:30:35][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@6c4c01ae: startup date [Fri Aug 05 15:30:35 CST 2016]; root of context hierarchy
+ [INFO] [2016-08-05 15:30:35][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+ [INFO] [2016-08-05 15:30:36][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [appContext_quartz.xml]
+ [INFO] [2016-08-05 15:30:36][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2016-08-05 15:30:36][org.springframework.scheduling.quartz.SchedulerFactoryBean]Spring's Quartz 1.x support is deprecated - please upgrade to Quartz 2.0+
+ [INFO] [2016-08-05 15:30:44][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@26b056fd: startup date [Fri Aug 05 15:30:44 CST 2016]; root of context hierarchy
+ [INFO] [2016-08-05 15:30:44][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+ [INFO] [2016-08-05 15:30:44][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [appContext_quartz.xml]
+ [INFO] [2016-08-05 15:30:44][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2016-08-05 15:30:44][org.springframework.scheduling.quartz.SchedulerFactoryBean]Spring's Quartz 1.x support is deprecated - please upgrade to Quartz 2.0+
+ [INFO] [2016-08-05 15:32:55][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@48696003: startup date [Fri Aug 05 15:32:55 CST 2016]; root of context hierarchy
+ [INFO] [2016-08-05 15:32:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mvc.xml]
+ [INFO] [2016-08-05 15:32:55][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [appContext_quartz.xml]
+ [INFO] [2016-08-05 15:32:55][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+ [INFO] [2016-08-05 15:32:55][org.springframework.scheduling.quartz.SchedulerFactoryBean]Spring's Quartz 1.x support is deprecated - please upgrade to Quartz 2.0+
+ 
